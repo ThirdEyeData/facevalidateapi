@@ -1,0 +1,8 @@
+c:\users\thirdeyekol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\bin\Debug\FaceValidity.exe.config
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\obj\Debug\FaceValidity.csprojResolveAssemblyReference.cache
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\bin\Debug\FaceValidity.exe
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\bin\Debug\FaceValidity.pdb
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\obj\Debug\FaceValidity.exe
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\obj\Debug\FaceValidity.pdb
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ThirdEyeKol\documents\visual studio 2015\Projects\FaceValidity\FaceValidity\bin\Debug\Newtonsoft.Json.xml
